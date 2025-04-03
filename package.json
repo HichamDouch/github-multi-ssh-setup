@@ -1,0 +1,12 @@
+{
+  "name": "github-multi-ssh-setup",
+  "version": "1.0.0",
+  "description": "A script to configure multiple GitHub SSH accounts",
+  "bin": {
+    "github-ssh-setup": "./setup-github-ssh.sh"
+  },
+  "scripts": {
+    "setup": "bash setup-github-ssh.sh"
+  }
+}
+
